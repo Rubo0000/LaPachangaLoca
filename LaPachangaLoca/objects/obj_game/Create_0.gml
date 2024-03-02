@@ -1,0 +1,10 @@
+life_bar = 100;
+started = false;
+score_counter = 0;
+multiplier = 1;
+selected_song = ""; 
+limit_time = 5; 
+timer = 0; 
+keys_sequence = [];
+keys_pressed = [];
+chars = ["A","D","S","J","K","L"];

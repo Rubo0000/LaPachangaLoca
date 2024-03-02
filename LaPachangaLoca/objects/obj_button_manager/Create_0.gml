@@ -1,0 +1,12 @@
+but1 = instance_create_layer(480,400,"Instances",obj_button);
+but2 = instance_create_layer(480,600,"Instances",obj_button);
+but3 = instance_create_layer(480,800,"Instances",obj_button);
+but1.button_text = "Quevedo";
+but1.num = 1;
+but1.song_name = "Quevedo";
+but2.button_text = "LofiBrasileno";
+but2.num = 2;
+but2.song_name = "LofiBrasileno";
+but3.button_text = "ArticMonkeys";
+but3.num = 3;
+but3.song_name = "ArticMonkeys";
